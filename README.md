@@ -32,11 +32,11 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,aws,tableau,git,github,html,css,js,vscode,streamlit,firebase" />
+  <img src="https://skillicons.dev/icons?i=python,sql,aws,tableau,git,github,html,css,js,vscode,streamlit,firebase" />
 </p>
 
 **Data & Analytics:** SQL · Power BI · Excel · Tableau · Pandas · NumPy · Matplotlib
-**AI / ML:** Scikit-learn · LangChain · RAG · MuRIL / IndicBERT · Prompt Engineering
+**AI / ML:** LangChain · RAG ·LLM · Prompt Engineering
 **Cloud & Tools:** AWS · Firebase · Git & GitHub · Streamlit
 
 ---
